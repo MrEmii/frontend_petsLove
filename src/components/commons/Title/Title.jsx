@@ -25,10 +25,10 @@ Title.propTypes = {
 }
 
 Title.defaultProps = {
-  mBottom: '',
   mTop: '',
   title: '',
   rolText: '',
+  mBottom: '',
   subTitle: '',
   withMargin: '',
 }
